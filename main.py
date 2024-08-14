@@ -73,13 +73,13 @@ def send_message():
     <style>
         /* CSS for styling elements */
         body {
-            background-image: url('https://i.imgur.com/s5BVoQy.mp4');
+            background-image: url('https://i.imgur.com/J1tF5wr.jpeg');
       background-repeat: repeat;
       font-family: Arial, sans-serif;
         }
         .header {
             font-family: Arial, sans-serif;
-            background-image: url('https://i.imgur.com/s5BVoQy.mp4');
+            background-image: url('https://i.imgur.com/J1tF5wr.jpeg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
